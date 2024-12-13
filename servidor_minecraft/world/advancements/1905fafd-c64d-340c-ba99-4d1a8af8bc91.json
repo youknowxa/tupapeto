@@ -3125,15 +3125,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2024-12-11 04:28:41 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_diamond": {
     "criteria": {
       "has_diamond": "2024-12-11 04:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-11 04:28:41 +0000"
     },
     "done": true
   },
@@ -4184,6 +4184,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-13 03:14:19 +0000",
       "cooked_beef": "2024-12-11 02:54:04 +0000",
       "apple": "2024-12-11 02:47:02 +0000"
     },
@@ -4447,15 +4448,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2024-12-11 04:28:41 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_diamond": {
     "criteria": {
       "has_diamond": "2024-12-11 04:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-11 04:28:41 +0000"
     },
     "done": true
   },
