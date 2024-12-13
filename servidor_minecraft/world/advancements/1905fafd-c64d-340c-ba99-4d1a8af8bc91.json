@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-13 21:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-12-11 03:11:32 +0000"
@@ -422,6 +428,12 @@
   "securitycraft:recipes/securitycraft/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-12-11 03:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2024-12-13 21:04:50 +0000"
     },
     "done": true
   },
@@ -1373,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2024-12-13 21:04:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2024-12-13 03:42:17 +0000"
@@ -1883,6 +1901,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-13 20:59:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-11 03:15:17 +0000"
@@ -2237,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-13 21:05:00 +0000"
+    },
+    "done": true
+  },
   "evilcraft:cannibal": {
     "criteria": {
       "criteria_0": "2024-12-13 04:31:00 +0000"
@@ -2561,6 +2591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-13 21:04:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/glaive_wood": {
     "criteria": {
       "has_wood": "2024-12-11 02:43:46 +0000"
@@ -2753,6 +2789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 21:04:50 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2024-12-11 04:28:41 +0000"
@@ -2804,6 +2846,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-11 02:48:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-13 21:04:51 +0000"
     },
     "done": true
   },
@@ -2972,6 +3020,12 @@
   "create:recipes/create.palettes/layered_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-11 03:11:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-13 20:59:41 +0000"
     },
     "done": true
   },
@@ -3155,6 +3209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 21:04:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_diamond": {
     "criteria": {
       "has_diamond": "2024-12-11 04:28:41 +0000"
@@ -3332,6 +3392,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-11 04:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-13 21:04:51 +0000"
     },
     "done": true
   },
@@ -3623,6 +3689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-13 21:04:51 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-11 02:42:49 +0000"
@@ -3777,6 +3849,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-13 03:39:38 +0000",
       "minecraft:skeleton": "2024-12-13 03:41:01 +0000",
+      "minecraft:spider": "2024-12-13 20:59:04 +0000",
       "minecraft:creeper": "2024-12-13 04:06:43 +0000",
       "minecraft:wither_skeleton": "2024-12-11 03:01:27 +0000",
       "minecraft:stray": "2024-12-11 03:01:22 +0000",
@@ -3843,6 +3916,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-11 03:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2024-12-13 21:04:50 +0000"
     },
     "done": true
   },
@@ -4524,6 +4603,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2024-12-13 21:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-12-11 03:11:32 +0000"
@@ -4593,6 +4678,12 @@
   "ironchest:recipes/ironchest/chests/iron_silver_chest": {
     "criteria": {
       "has_item": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-13 21:04:58 +0000"
     },
     "done": true
   },
@@ -4980,6 +5071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-13 21:05:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-11 02:51:16 +0000"
@@ -5009,6 +5106,7 @@
       "cooked_porkchop": "2024-12-13 03:33:18 +0000",
       "cooked_mutton": "2024-12-13 03:14:19 +0000",
       "cooked_beef": "2024-12-11 02:54:04 +0000",
+      "baked_potato": "2024-12-13 21:03:54 +0000",
       "apple": "2024-12-11 02:47:02 +0000",
       "bread": "2024-12-13 03:51:35 +0000",
       "cooked_rabbit": "2024-12-13 04:12:45 +0000"
@@ -5852,6 +5950,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_upgrade_kit_large": {
     "criteria": {
       "has_diamond": "2024-12-11 04:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-13 21:04:51 +0000"
     },
     "done": true
   },
