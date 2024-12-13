@@ -2425,6 +2425,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "brewingstand": "2024-12-13 21:29:14 +0000",
       "blastfurnace": "2024-12-13 03:52:21 +0000"
     },
     "done": false
@@ -3397,7 +3398,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2024-12-11 04:16:21 +0000"
+      "in_better_spider_dungeon": "2024-12-11 04:16:21 +0000",
+      "in_better_monster_room": "2024-12-13 21:32:43 +0000"
     },
     "done": false
   },
@@ -3891,6 +3893,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-13 03:39:38 +0000",
       "minecraft:skeleton": "2024-12-13 03:41:01 +0000",
+      "minecraft:vindicator": "2024-12-13 21:34:01 +0000",
       "minecraft:spider": "2024-12-13 20:59:04 +0000",
       "minecraft:creeper": "2024-12-13 04:06:43 +0000",
       "minecraft:wither_skeleton": "2024-12-11 03:01:27 +0000",
@@ -4462,6 +4465,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-11 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-13 21:32:43 +0000"
     },
     "done": true
   },

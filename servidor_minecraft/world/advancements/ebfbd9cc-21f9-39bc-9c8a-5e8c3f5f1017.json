@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-13 21:34:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 03:01:03 +0000"
@@ -707,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-13 21:34:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-11 03:01:57 +0000"
@@ -830,6 +842,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-13 04:37:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-13 21:36:28 +0000"
     },
     "done": true
   },
@@ -1571,6 +1589,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-13 21:35:35 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-11 03:44:55 +0000"
@@ -1820,6 +1844,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_stone": {
     "criteria": {
       "has_cobblestone": "2024-12-11 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-13 21:35:34 +0000"
     },
     "done": true
   },
@@ -2321,6 +2351,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/oak_savannah": {
+    "criteria": {
+      "discover": "2024-12-13 21:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-11 03:54:16 +0000"
@@ -2507,6 +2543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-13 21:32:41 +0000"
+    },
+    "done": true
+  },
   "evilcraft:cannibal": {
     "criteria": {
       "criteria_0": "2024-12-11 04:18:47 +0000"
@@ -2558,6 +2600,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-11 04:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-13 21:35:34 +0000"
     },
     "done": true
   },
@@ -2726,6 +2774,12 @@
   "cfm:recipes/cfm/acacia_mail_box": {
     "criteria": {
       "has_chest": "2024-12-13 03:36:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2024-12-13 21:29:39 +0000"
     },
     "done": true
   },
@@ -3971,6 +4025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-13 21:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-11 03:20:33 +0000"
@@ -4079,6 +4139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2024-12-13 21:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-11 02:53:21 +0000"
@@ -4155,11 +4221,13 @@
     "criteria": {
       "minecraft:pillager": "2024-12-13 03:19:39 +0000",
       "minecraft:skeleton": "2024-12-11 03:09:29 +0000",
+      "minecraft:hoglin": "2024-12-13 21:36:46 +0000",
       "minecraft:spider": "2024-12-11 02:59:54 +0000",
       "minecraft:creeper": "2024-12-11 03:12:41 +0000",
       "minecraft:wither_skeleton": "2024-12-11 04:18:56 +0000",
       "minecraft:husk": "2024-12-11 04:37:05 +0000",
       "minecraft:cave_spider": "2024-12-11 04:03:32 +0000",
+      "minecraft:piglin": "2024-12-13 21:37:24 +0000",
       "minecraft:enderman": "2024-12-11 04:31:56 +0000",
       "minecraft:stray": "2024-12-11 04:06:59 +0000",
       "minecraft:zombie": "2024-12-11 02:53:56 +0000"
@@ -4535,6 +4603,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-13 03:30:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-12-13 21:28:15 +0000"
     },
     "done": true
   },
@@ -5427,6 +5501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-13 21:32:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-11 02:53:50 +0000"
@@ -5462,6 +5542,12 @@
   "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-13 04:47:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "3": "2024-12-13 21:32:23 +0000"
     },
     "done": true
   },
@@ -5891,6 +5977,18 @@
     },
     "done": true
   },
+  "relics:obtain/bastion_ring": {
+    "criteria": {
+      "obtain_relic": "2024-12-13 21:37:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2024-12-13 21:31:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-13 04:47:52 +0000"
@@ -6080,6 +6178,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-11 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/rage_glove": {
+    "criteria": {
+      "obtain_relic": "2024-12-13 21:37:03 +0000"
     },
     "done": true
   },

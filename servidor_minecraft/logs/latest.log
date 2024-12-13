@@ -3776,3 +3776,35 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 21:14:30.929] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/65057, l='ServerLevel[world]', x=166.19, y=15.61, z=664.10]
 [13Dec2024 21:14:30.930] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/65057, l='ServerLevel[world]', x=166.19, y=15.61, z=664.10]
 [13Dec2024 21:32:23.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3685ms or 73 ticks behind
+[13Dec2024 21:32:40.974] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 55ms decreasing chunk view distance to: 19
+[13Dec2024 21:32:43.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [Quite the Renovation]
+[13Dec2024 21:32:44.031] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: anthonyIknow moved too quickly! 0.5916077224466392,63.07840000152588,0.8432670351623983
+[13Dec2024 21:33:40.271] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 40ms increasing chunk view distance to: 20
+[13Dec2024 21:35:34.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has made the advancement [We Need to Go Deeper]
+[13Dec2024 21:36:07.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> verdad si encuentras spawns no los rompas mano :v
+[13Dec2024 21:36:18.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> hay spawns por todos lados :v
+[13Dec2024 21:36:28.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has made the advancement [Nightmare Fuel]
+[13Dec2024 21:36:34.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> ya ami que chu?
+[13Dec2024 21:36:45.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> no los rompas nomas
+[13Dec2024 21:37:03.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has made the advancement [Where're we going with Piglet...]
+[13Dec2024 21:37:03.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has made the advancement [Damage is 300 bucks]
+[13Dec2024 21:37:11.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> :v
+[13Dec2024 21:37:16.399] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: chorperro moved wrongly!
+[13Dec2024 21:37:27.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> twiligt?
+[13Dec2024 21:37:45.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> god
+[13Dec2024 21:38:14.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13Dec2024 21:38:27.624] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 55ms decreasing chunk view distance to: 19
+[13Dec2024 21:38:46.647] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Potato'/102932, l='ServerLevel[world]', x=118.52, y=100.94, z=747.44]
+[13Dec2024 21:39:12.272] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 36ms increasing chunk view distance to: 20
+[13Dec2024 21:39:35.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> regreso cuando tenga full pasado el twilight :V
+[13Dec2024 21:40:14.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> hazme un favor y no vuelves mano
+[13Dec2024 21:40:28.029] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 49ms decreasing chunk view distance to: 19
+[13Dec2024 21:40:29.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> :,v
+[13Dec2024 21:40:42.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[13Dec2024 21:40:44.609] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 52ms decreasing chunk view distance to: 18
+[13Dec2024 21:40:46.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has made the advancement [The Silence of the Forest]
+[13Dec2024 21:41:00.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
+[13Dec2024 21:41:02.375] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 56ms decreasing chunk view distance to: 17
+[13Dec2024 21:41:18.719] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 54ms decreasing chunk view distance to: 16
+[13Dec2024 21:41:22.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13Dec2024 21:41:34.345] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 51ms decreasing chunk view distance to: 15
