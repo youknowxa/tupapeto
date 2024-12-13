@@ -1079,6 +1079,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-13 03:49:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_pillar": {
     "criteria": {
       "has_andesite": "2024-12-11 03:08:47 +0000"
@@ -1517,6 +1523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-13 04:07:01 +0000"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/futura/screen_metallic": {
     "criteria": {
       "has_redstone": "2024-12-11 03:15:17 +0000"
@@ -1724,6 +1736,12 @@
   "cfm:recipes/cfm/trampoline": {
     "criteria": {
       "has_iron": "2024-12-11 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-13 03:49:08 +0000"
     },
     "done": true
   },
@@ -2308,6 +2326,12 @@
       "has_iron": "2024-12-11 03:01:34 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "blastfurnace": "2024-12-13 03:52:21 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
@@ -3681,6 +3705,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-13 03:39:38 +0000",
       "minecraft:skeleton": "2024-12-13 03:41:01 +0000",
+      "minecraft:creeper": "2024-12-13 04:06:43 +0000",
       "minecraft:wither_skeleton": "2024-12-11 03:01:27 +0000",
       "minecraft:stray": "2024-12-11 03:01:22 +0000",
       "minecraft:silverfish": "2024-12-13 03:27:39 +0000",
@@ -4691,6 +4716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-13 04:07:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 03:32:13 +0000"
@@ -4864,7 +4895,9 @@
       "cooked_porkchop": "2024-12-13 03:33:18 +0000",
       "cooked_mutton": "2024-12-13 03:14:19 +0000",
       "cooked_beef": "2024-12-11 02:54:04 +0000",
-      "apple": "2024-12-11 02:47:02 +0000"
+      "apple": "2024-12-11 02:47:02 +0000",
+      "bread": "2024-12-13 03:51:35 +0000",
+      "cooked_rabbit": "2024-12-13 04:12:45 +0000"
     },
     "done": false
   },
@@ -5363,6 +5396,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_iron": {
     "criteria": {
       "has_feather": "2024-12-11 03:00:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-13 04:07:01 +0000"
     },
     "done": true
   },
@@ -6014,6 +6053,12 @@
     },
     "done": true
   },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "blastfurnace": "2024-12-13 03:52:21 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
     "criteria": {
       "has_leather": "2024-12-11 02:47:06 +0000"
@@ -6023,6 +6068,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-11 02:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2024-12-13 03:49:08 +0000"
     },
     "done": true
   },
