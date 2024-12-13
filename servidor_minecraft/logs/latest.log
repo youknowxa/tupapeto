@@ -3849,3 +3849,13 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 22:03:09.387] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [13Dec2024 22:03:09.683] [Thread-96/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ebfbd9cc-21f9-39bc-9c8a-5e8c3f5f1017.
 [13Dec2024 22:03:16.165] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 39ms increasing chunk view distance to: 16
+[13Dec2024 22:03:32.767] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 38ms increasing chunk view distance to: 17
+[13Dec2024 22:03:35.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[13Dec2024 22:03:51.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> :,v
+[13Dec2024 22:03:58.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> que fue
+[13Dec2024 22:04:19.523] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 49ms decreasing chunk view distance to: 16
+[13Dec2024 22:04:29.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Dec2024 22:04:35.475] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 51ms decreasing chunk view distance to: 15
+[13Dec2024 22:08:50.684] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 49ms decreasing chunk view distance to: 14
+[13Dec2024 22:09:20.178] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 39ms increasing chunk view distance to: 15
+[13Dec2024 22:09:35.185] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 16

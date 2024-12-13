@@ -1013,6 +1013,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/shield_scepter": {
+    "criteria": {
+      "scepter": "2024-12-13 22:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2024-12-13 03:20:24 +0000"
@@ -2327,6 +2333,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/dark_forest": {
+    "criteria": {
+      "0": "2024-12-13 22:06:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_park_bench": {
     "criteria": {
       "has_log": "2024-12-11 03:01:36 +0000"
@@ -2338,6 +2350,12 @@
       "has_OptionalNamedTag[forge:gems/emerald]": "2024-12-11 04:42:49 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_sapling": "2024-12-13 22:05:53 +0000"
+    },
+    "done": false
   },
   "ironchest:recipes/ironchest/chests/diamond_crystal_chest": {
     "criteria": {
@@ -2861,6 +2879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 22:12:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-11 02:53:09 +0000"
@@ -3341,6 +3365,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/kobold": {
+    "criteria": {
+      "hurt_by_indirect": "2024-12-13 22:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-11 02:53:39 +0000"
@@ -3470,6 +3500,12 @@
   "cfm:recipes/cfm/stripped_crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-13 03:36:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/knight_stronghold": {
+    "criteria": {
+      "discover": "2024-12-13 22:11:34 +0000"
     },
     "done": true
   },
@@ -4002,6 +4038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 22:12:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2024-12-13 21:38:59 +0000"
@@ -4477,12 +4519,14 @@
       "minecraft:hoglin": "2024-12-13 21:36:46 +0000",
       "minecraft:spider": "2024-12-11 02:59:54 +0000",
       "minecraft:creeper": "2024-12-11 03:12:41 +0000",
+      "minecraft:witch": "2024-12-13 22:01:28 +0000",
       "minecraft:wither_skeleton": "2024-12-11 04:18:56 +0000",
       "minecraft:husk": "2024-12-11 04:37:05 +0000",
       "minecraft:cave_spider": "2024-12-11 04:03:32 +0000",
       "minecraft:piglin": "2024-12-13 21:37:24 +0000",
       "minecraft:enderman": "2024-12-11 04:31:56 +0000",
       "minecraft:stray": "2024-12-11 04:06:59 +0000",
+      "minecraft:silverfish": "2024-12-13 22:00:28 +0000",
       "minecraft:zombie": "2024-12-11 02:53:56 +0000"
     },
     "done": false
@@ -6077,6 +6121,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2024-12-11 03:46:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 22:03:07 +0000"
     },
     "done": true
   },
