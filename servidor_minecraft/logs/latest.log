@@ -3829,3 +3829,23 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 21:50:44.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has reached the goal [Time To Even The Scales]
 [13Dec2024 21:51:43.211] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 49ms decreasing chunk view distance to: 14
 [13Dec2024 21:52:50.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has made the advancement [I Can See Forever]
+[13Dec2024 21:53:15.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Dec2024 21:53:30.341] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 50ms decreasing chunk view distance to: 13
+[13Dec2024 21:53:32.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[13Dec2024 21:53:46.357] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 55ms decreasing chunk view distance to: 12
+[13Dec2024 21:54:13.172] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@d7769f5
+[13Dec2024 21:54:16.180] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 13
+[13Dec2024 21:54:46.176] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 40ms increasing chunk view distance to: 14
+[13Dec2024 21:55:16.226] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 40ms increasing chunk view distance to: 15
+[13Dec2024 21:57:56.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has reached the goal [Bring Out Your Dead]
+[13Dec2024 21:58:07.094] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 87af7bd4-c699-494c-9c97-e8473f1820e6. Existing lycanitesmobs:nymph#161961, new: lycanitesmobs:nymph#161961
+[13Dec2024 21:58:32.007] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: anthonyIknow moved too quickly! -0.013733670838234957,-11.2134039128713,-0.22759484289326792
+[13Dec2024 22:01:30.488] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by anthonyIknow
+[13Dec2024 22:01:35.712] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='anthonyIknow', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[13Dec2024 22:03:07.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has reached the goal [Strong or Careful]
+[13Dec2024 22:03:07.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow succumbed to the Lich's explosive magic while escaping Death Tome
+[13Dec2024 22:03:07.988] [Server thread/INFO] [tombstone/]: The player anthonyIknow has successfully been saved
+[13Dec2024 22:03:09.387] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Dec2024 22:03:09.387] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Dec2024 22:03:09.683] [Thread-96/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ebfbd9cc-21f9-39bc-9c8a-5e8c3f5f1017.
+[13Dec2024 22:03:16.165] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 39ms increasing chunk view distance to: 16
