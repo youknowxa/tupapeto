@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/gabbro_cobblestone_stairs": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-13 03:24:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_desk": {
     "criteria": {
       "has_log": "2024-12-11 03:01:36 +0000"
@@ -248,6 +254,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 04:27:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_wall": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-13 03:24:20 +0000"
     },
     "done": true
   },
@@ -479,6 +491,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-13 03:24:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-12-11 02:53:50 +0000"
@@ -704,6 +722,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-11 03:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-13 03:20:24 +0000"
     },
     "done": true
   },
@@ -1307,6 +1331,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 03:19:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/weathered_limestone_cobblestone_slab_from_weathered_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone_cobblestone": "2024-12-11 03:54:14 +0000"
@@ -1796,6 +1826,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-11 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_slab": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-13 03:24:20 +0000"
     },
     "done": true
   },
@@ -3107,6 +3143,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/gabbro_cobblestone_slab_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-13 03:24:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_diamond": {
     "criteria": {
       "has_diamond": "2024-12-11 03:54:16 +0000"
@@ -3185,6 +3227,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-13 03:18:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-11 03:05:26 +0000"
@@ -3223,6 +3271,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-13 03:19:39 +0000",
       "minecraft:skeleton": "2024-12-11 03:09:29 +0000",
       "minecraft:spider": "2024-12-11 02:59:54 +0000",
       "minecraft:creeper": "2024-12-11 03:12:41 +0000",
@@ -3898,6 +3947,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-13 03:19:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-11 02:52:23 +0000"
@@ -3991,6 +4046,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-11 03:05:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_stairs_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-13 03:24:20 +0000"
     },
     "done": true
   },
@@ -4968,6 +5029,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/gabbro": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-13 03:24:20 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_wood": {
     "criteria": {
       "has_wood": "2024-12-11 02:51:53 +0000"
@@ -5049,6 +5116,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/spear_stone": {
     "criteria": {
       "has_cobblestone": "2024-12-11 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/gabbro_cobblestone_wall_from_gabbro_cobblestone_stonecutting": {
+    "criteria": {
+      "has_gabbro_cobblestone": "2024-12-13 03:24:20 +0000"
     },
     "done": true
   },
