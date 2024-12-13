@@ -4367,6 +4367,12 @@
     },
     "done": true
   },
+  "relics:obtain/out_runner": {
+    "criteria": {
+      "obtain_relic": "2024-12-13 22:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-11 02:43:26 +0000"

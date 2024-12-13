@@ -3872,3 +3872,7 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 22:21:22.201] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 17
 [13Dec2024 22:22:56.183] [Server thread/INFO] [Scaling Health/]: Blight Cave Spider was killed by chorperro
 [13Dec2024 22:23:52.935] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 50ms decreasing chunk view distance to: 16
+[13Dec2024 22:25:52.179] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 17
+[13Dec2024 22:26:18.708] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='anthonyIknow', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[13Dec2024 22:28:52.877] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 50ms decreasing chunk view distance to: 16
+[13Dec2024 22:33:08.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [Little Muck]

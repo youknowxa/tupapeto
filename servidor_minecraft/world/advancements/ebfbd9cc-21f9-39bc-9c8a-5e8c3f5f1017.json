@@ -1320,6 +1320,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/goblin_knight": {
+    "criteria": {
+      "hurt": "2024-12-13 22:25:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2024-12-11 02:51:53 +0000"
@@ -6782,6 +6788,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv4": {
     "criteria": {
       "has_iron": "2024-12-11 03:06:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/dark_forest_center": {
+    "criteria": {
+      "discover": "2024-12-13 22:27:15 +0000"
     },
     "done": true
   },
