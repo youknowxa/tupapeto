@@ -1951,6 +1951,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-13 21:45:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/trophies": {
     "criteria": {
       "1": "2024-12-13 21:50:44 +0000"
@@ -1960,12 +1966,6 @@
   "twilightforest:alt/treasures/foods/maze_wafer": {
     "criteria": {
       "food": "2024-12-13 22:22:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
-    "criteria": {
-      "has_pickup_upgrade": "2024-12-13 21:45:13 +0000"
     },
     "done": true
   },
@@ -4170,15 +4170,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-13 22:12:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2024-12-13 21:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 22:12:55 +0000"
     },
     "done": true
   },
@@ -6592,15 +6592,15 @@
     },
     "done": true
   },
-  "relics:obtain/bastion_ring": {
-    "criteria": {
-      "obtain_relic": "2024-12-13 21:37:03 +0000"
-    },
-    "done": true
-  },
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2024-12-13 21:31:37 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/bastion_ring": {
+    "criteria": {
+      "obtain_relic": "2024-12-13 21:37:03 +0000"
     },
     "done": true
   },
