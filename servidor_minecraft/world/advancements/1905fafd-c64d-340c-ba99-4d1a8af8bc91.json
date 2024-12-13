@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/throwing_knife_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/scalinghealth/power_crystal": {
     "criteria": {
       "cobblestone": "2024-12-11 02:44:16 +0000"
@@ -86,6 +92,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/shield": {
     "criteria": {
       "has_shield": "2024-12-11 03:13:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/longsword_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -215,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-13 03:39:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-11 04:22:27 +0000"
@@ -239,9 +257,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/boomerang_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/flanged_mace_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -287,9 +317,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/diving_board": {
+    "criteria": {
+      "has_wheat": "2024-12-13 03:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-11 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/copper_silver_chest": {
+    "criteria": {
+      "has_item": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -395,9 +437,21 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/silver_gold_chest": {
+    "criteria": {
+      "has_item": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-11 03:11:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/pike_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -422,6 +476,12 @@
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-12-11 03:15:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/warhammer_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -503,6 +563,12 @@
     },
     "done": true
   },
+  "relics:obtain/spatial_sign": {
+    "criteria": {
+      "obtain_relic": "2024-12-13 03:39:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-12-11 02:51:16 +0000"
@@ -527,6 +593,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-13 03:40:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-11 02:47:06 +0000"
@@ -548,6 +620,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-11 04:36:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/halberd_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -641,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-13 03:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-11 02:51:29 +0000"
@@ -650,6 +734,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-11 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-13 03:45:02 +0000"
     },
     "done": true
   },
@@ -743,6 +833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-13 03:45:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_cooler": {
     "criteria": {
       "has_chest": "2024-12-11 03:12:13 +0000"
@@ -788,6 +884,18 @@
   "cfm:recipes/cfm/acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-11 04:22:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/dagger_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-13 03:39:33 +0000"
     },
     "done": true
   },
@@ -1187,6 +1295,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/battleaxe_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_grill": {
     "criteria": {
       "has_iron": "2024-12-11 03:01:34 +0000"
@@ -1202,6 +1316,12 @@
   "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-11 04:22:27 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2024-12-13 03:45:50 +0000"
     },
     "done": true
   },
@@ -1226,6 +1346,12 @@
   "create:recipes/create.palettes/weathered_limestone_cobblestone_slab": {
     "criteria": {
       "has_weathered_limestone_cobblestone": "2024-12-11 03:51:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-13 03:42:17 +0000"
     },
     "done": true
   },
@@ -1268,6 +1394,12 @@
   "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-11 03:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-13 03:42:17 +0000"
     },
     "done": true
   },
@@ -1361,6 +1493,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/weathered_limestone_cobblestone_slab_from_weathered_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone_cobblestone": "2024-12-11 03:51:44 +0000"
@@ -1382,6 +1520,12 @@
   "chisel:recipes/chisel/futura/screen_metallic": {
     "criteria": {
       "has_redstone": "2024-12-11 03:15:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/lance_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -1418,6 +1562,12 @@
   "cfm:recipes/cfm/granite_desk": {
     "criteria": {
       "has_planks": "2024-12-11 03:23:12 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-13 03:42:17 +0000"
     },
     "done": true
   },
@@ -1805,6 +1955,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/parrying_dagger_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/purple_seat": {
     "criteria": {
       "has_wool": "2024-12-11 02:51:16 +0000"
@@ -2033,6 +2189,12 @@
     },
     "done": true
   },
+  "relics:obtain/leather_belt": {
+    "criteria": {
+      "obtain_relic": "2024-12-13 03:39:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-11 02:47:06 +0000"
@@ -2054,6 +2216,12 @@
   "create:recipes/create.base/blasting/copper_ingot_from_ore": {
     "criteria": {
       "has_item": "2024-12-11 04:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-13 03:45:02 +0000"
     },
     "done": true
   },
@@ -2096,6 +2264,12 @@
   "create:recipes/create.palettes/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-11 03:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-13 03:45:02 +0000"
     },
     "done": true
   },
@@ -2195,6 +2369,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/quarterstaff_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2024-12-11 03:01:19 +0000"
@@ -2285,6 +2465,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/rapier_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_grill": {
     "criteria": {
       "has_iron": "2024-12-11 03:01:34 +0000"
@@ -2339,6 +2525,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-13 03:41:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-11 03:00:00 +0000"
@@ -2366,6 +2558,12 @@
   "create:recipes/create.base/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2024-12-11 02:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-13 03:42:17 +0000"
     },
     "done": true
   },
@@ -2615,6 +2813,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/longbow_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-13 03:27:41 +0000"
@@ -2654,6 +2858,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-11 02:43:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/glaive_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -2780,6 +2990,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/hammer_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/heavy_crossbow_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -3401,6 +3617,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/straw": {
+    "criteria": {
+      "has_wheat": "2024-12-13 03:40:49 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 03:01:34 +0000"
@@ -3457,9 +3679,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-13 03:39:38 +0000",
+      "minecraft:skeleton": "2024-12-13 03:41:01 +0000",
       "minecraft:wither_skeleton": "2024-12-11 03:01:27 +0000",
       "minecraft:stray": "2024-12-11 03:01:22 +0000",
-      "minecraft:silverfish": "2024-12-13 03:27:39 +0000"
+      "minecraft:silverfish": "2024-12-13 03:27:39 +0000",
+      "minecraft:zombie": "2024-12-13 03:39:54 +0000",
+      "minecraft:zombie_villager": "2024-12-13 03:38:37 +0000"
     },
     "done": false
   },
@@ -3685,6 +3911,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/greatsword_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-12-11 04:25:04 +0000"
@@ -3730,6 +3962,12 @@
   "cfm:recipes/cfm/diorite_desk": {
     "criteria": {
       "has_planks": "2024-12-11 03:11:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/tomahawk_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -4225,6 +4463,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/iron_silver_chest": {
+    "criteria": {
+      "has_item": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-11 02:51:16 +0000"
@@ -4345,6 +4589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-13 03:40:31 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-11 04:22:27 +0000"
@@ -4444,6 +4694,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 03:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-13 03:40:49 +0000"
     },
     "done": true
   },
@@ -4624,6 +4880,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/scythe_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/futura/controller_purple": {
     "criteria": {
       "has_redstone": "2024-12-11 03:15:17 +0000"
@@ -4705,6 +4967,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-11 02:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-13 03:40:49 +0000"
     },
     "done": true
   },
@@ -4840,6 +5108,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/spear_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/uncommon": {
     "criteria": {
       "sword": "2024-12-13 03:27:37 +0000"
@@ -4867,6 +5141,12 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-11 04:16:58 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -4909,6 +5189,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-11 04:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-13 03:39:06 +0000"
     },
     "done": true
   },
@@ -4978,6 +5264,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/saber_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-11 03:12:13 +0000"
@@ -5044,6 +5336,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/katana_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "relics:obtain/spore_sack": {
     "criteria": {
       "obtain_relic": "2024-12-11 03:01:34 +0000"
@@ -5098,6 +5396,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 03:38:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-11 04:17:31 +0000"
@@ -5119,6 +5423,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-11 04:28:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.modded/hammer_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
     },
     "done": true
   },
@@ -5332,6 +5642,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.modded/javelin_silver": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 03:39:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_desk": {
     "criteria": {
       "has_planks": "2024-12-13 03:27:33 +0000"
@@ -5506,6 +5822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-13 03:39:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_grill": {
     "criteria": {
       "has_iron": "2024-12-11 03:01:34 +0000"
@@ -5533,6 +5855,12 @@
   "cfm:recipes/cfm/andesite_bedside_cabinet": {
     "criteria": {
       "has_planks": "2024-12-11 03:08:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-13 03:40:49 +0000"
     },
     "done": true
   },

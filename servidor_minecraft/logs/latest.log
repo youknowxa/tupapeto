@@ -3897,3 +3897,32 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 03:39:38.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [Ambush]
 [13Dec2024 03:39:49.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElverduraZ> en dungeon :V
 [13Dec2024 03:40:26.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElverduraZ has made the advancement [Knowledge raises the soul]
+[13Dec2024 03:40:51.134] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 52ms decreasing chunk view distance to: 12
+[13Dec2024 03:41:05.057] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[13Dec2024 03:41:21.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has completed the challenge [He Wasn't So Strong]
+[13Dec2024 03:41:32.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> gente
+[13Dec2024 03:41:37.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> porque escucho musica de boss
+[13Dec2024 03:41:42.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> :,v
+[13Dec2024 03:41:45.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> porq te la van a meter
+[13Dec2024 03:41:51.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> sin lubricante
+[13Dec2024 03:42:09.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElverduraZ> ese logro de se obediente de hace rato era a esto mano, preparate para una sumision jodida
+[13Dec2024 03:42:17.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [A True Source of Evil]
+[13Dec2024 03:44:04.967] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 13
+[13Dec2024 03:45:16.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> gente
+[13Dec2024 03:45:25.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> saben donde hay aldea?
+[13Dec2024 03:45:46.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> ni idea mano
+[13Dec2024 03:46:06.673] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=179, y=18, z=953}
+[13Dec2024 03:46:06.673] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=187, y=17, z=951}
+[13Dec2024 03:46:06.673] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=188, y=18, z=953}
+[13Dec2024 03:46:06.918] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=192, y=20, z=953}
+[13Dec2024 03:46:20.876] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 51ms decreasing chunk view distance to: 12
+[13Dec2024 03:47:40.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has made the advancement [It Certainly Seems Rare...]
+[13Dec2024 03:49:09.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElverduraZ> no jodas una nocht
+[13Dec2024 03:49:20.575] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 50ms decreasing chunk view distance to: 11
+[13Dec2024 03:49:30.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElverduraZ> parece que esta normalizado esta mierda ahora 2
+[13Dec2024 03:49:37.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> yo tambien me emocionaria mano
+[13Dec2024 03:49:38.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> pero
+[13Dec2024 03:49:44.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> aca hay 4000 cosas mejor q esas :v
+[13Dec2024 03:49:54.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElverduraZ has reached the goal [Bone Crusher]
+[13Dec2024 03:49:58.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> te llamo pendejo mano
+[13Dec2024 03:50:12.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElverduraZ> mano no rompas mi ilusion

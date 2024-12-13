@@ -1145,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-13 03:36:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stone_table": {
     "criteria": {
       "has_planks": "2024-12-11 02:47:20 +0000"
@@ -2123,6 +2129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-13 03:36:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-11 04:10:41 +0000"
@@ -2444,6 +2456,12 @@
   "cfm:recipes/cfm/cyan_grill": {
     "criteria": {
       "has_iron": "2024-12-11 03:07:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 03:40:26 +0000"
     },
     "done": true
   },
