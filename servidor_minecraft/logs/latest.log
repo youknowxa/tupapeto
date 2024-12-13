@@ -3893,3 +3893,14 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 22:39:16.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [anthonyIknow: Set own game mode to Spectator Mode]
 [13Dec2024 22:39:41.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [anthonyIknow: Set own game mode to Survival Mode]
 [13Dec2024 22:40:02.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has reached the goal [Carminite Acclimation]
+[13Dec2024 22:45:51.635] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: chorperro moved wrongly!
+[13Dec2024 22:45:54.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [anthonyIknow: Set own game mode to Spectator Mode]
+[13Dec2024 22:46:18.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [anthonyIknow: Set own game mode to Survival Mode]
+[13Dec2024 22:47:49.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [anthonyIknow: Set own game mode to Spectator Mode]
+[13Dec2024 22:49:13.232] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='chorperro', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
+[13Dec2024 22:52:23.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> 96 78 702
+[13Dec2024 22:52:33.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> qfue
+[13Dec2024 22:52:47.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> solo marcaba la ubicacion de la base
+[13Dec2024 22:53:38.871] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 49ms decreasing chunk view distance to: 16
+[13Dec2024 22:53:40.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13Dec2024 22:53:54.241] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 52ms decreasing chunk view distance to: 15
