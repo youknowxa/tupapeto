@@ -1466,9 +1466,10 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
-      "previous_progression": "2024-12-13 22:20:56 +0000"
+      "previous_progression": "2024-12-13 22:20:56 +0000",
+      "knight": "2024-12-13 22:40:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_iron": {
     "criteria": {
@@ -2408,7 +2409,8 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "twilight_oak_sapling": "2024-12-13 22:05:53 +0000"
+      "twilight_oak_sapling": "2024-12-13 22:05:53 +0000",
+      "canopy_sapling": "2024-12-13 22:41:14 +0000"
     },
     "done": false
   },
@@ -2889,6 +2891,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 04:27:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/knight_phantom": {
+    "criteria": {
+      "hurt": "2024-12-13 22:39:57 +0000"
     },
     "done": true
   },
@@ -5541,6 +5549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-13 22:42:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-13 03:36:34 +0000"
@@ -6635,6 +6649,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/phantom_armor_set": {
+    "criteria": {
+      "chestplate": "2024-12-13 22:41:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-13 04:47:52 +0000"
@@ -6874,6 +6894,12 @@
       "has_chest": "2024-12-13 03:36:34 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2024-12-13 22:40:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {

@@ -1679,6 +1679,12 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/bloodmagictab/synthetic_point": {
+    "criteria": {
+      "has_nugget": "2024-12-13 22:37:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/spear_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 03:32:13 +0000"
@@ -3938,7 +3944,10 @@
       "minecraft:vindicator": "2024-12-13 21:34:01 +0000",
       "minecraft:spider": "2024-12-13 20:59:04 +0000",
       "minecraft:creeper": "2024-12-13 04:06:43 +0000",
+      "minecraft:evoker": "2024-12-13 22:34:53 +0000",
+      "minecraft:witch": "2024-12-13 22:37:42 +0000",
       "minecraft:wither_skeleton": "2024-12-11 03:01:27 +0000",
+      "minecraft:husk": "2024-12-13 22:39:14 +0000",
       "minecraft:cave_spider": "2024-12-13 22:22:56 +0000",
       "minecraft:stray": "2024-12-11 03:01:22 +0000",
       "minecraft:silverfish": "2024-12-13 03:27:39 +0000",
@@ -5892,6 +5901,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2024-12-13 22:36:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2024-12-11 02:51:16 +0000"
@@ -5919,6 +5934,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2024-12-11 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-13 22:34:46 +0000"
     },
     "done": true
   },
@@ -6261,6 +6282,12 @@
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2024-12-13 04:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-13 22:37:52 +0000"
     },
     "done": true
   },

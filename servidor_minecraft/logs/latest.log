@@ -3876,3 +3876,20 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 22:26:18.708] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player TextComponent{text='anthonyIknow', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}})
 [13Dec2024 22:28:52.877] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 50ms decreasing chunk view distance to: 16
 [13Dec2024 22:33:08.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [Little Muck]
+[13Dec2024 22:36:20.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [Apotheotic Spawners]
+[13Dec2024 22:37:15.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/198965, l='ServerLevel[world]', x=168.38, y=15.44, z=724.75]
+[13Dec2024 22:37:17.855] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/198971, l='ServerLevel[world]', x=174.15, y=16.19, z=724.93]
+[13Dec2024 22:37:18.360] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/198975, l='ServerLevel[world]', x=174.15, y=15.44, z=725.68]
+[13Dec2024 22:37:21.060] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/199017, l='ServerLevel[world]', x=174.15, y=14.98, z=724.34]
+[13Dec2024 22:37:24.360] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/199021, l='ServerLevel[world]', x=174.01, y=15.61, z=724.97]
+[13Dec2024 22:37:25.865] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/199029, l='ServerLevel[world]', x=174.01, y=16.12, z=725.19]
+[13Dec2024 22:37:29.860] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/199045, l='ServerLevel[world]', x=174.02, y=16.12, z=725.99]
+[13Dec2024 22:37:30.418] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/199055, l='ServerLevel[world]', x=173.72, y=15.61, z=726.43]
+[13Dec2024 22:37:30.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/199064, l='ServerLevel[world]', x=173.67, y=14.98, z=726.29]
+[13Dec2024 22:37:31.111] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/199069, l='ServerLevel[world]', x=173.64, y=15.44, z=724.95]
+[13Dec2024 22:37:31.607] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/199071, l='ServerLevel[world]', x=173.64, y=16.19, z=725.70]
+[13Dec2024 22:37:32.110] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SmallFireballEntity['Small Fireball'/199073, l='ServerLevel[world]', x=173.64, y=15.44, z=726.45]
+[13Dec2024 22:38:22.175] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 17
+[13Dec2024 22:39:16.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [anthonyIknow: Set own game mode to Spectator Mode]
+[13Dec2024 22:39:41.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [anthonyIknow: Set own game mode to Survival Mode]
+[13Dec2024 22:40:02.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has reached the goal [Carminite Acclimation]
