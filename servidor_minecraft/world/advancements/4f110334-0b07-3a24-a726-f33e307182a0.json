@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "antiqueatlas:recipes/atlas_new": {
+    "criteria": {
+      "has_compass": "2024-12-13 03:29:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_desk": {
     "criteria": {
       "has_log": "2024-12-11 04:13:44 +0000"
@@ -482,6 +488,12 @@
   "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2024-12-11 04:04:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-13 03:29:54 +0000"
     },
     "done": true
   },
@@ -1265,6 +1277,12 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-13 03:28:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/spear_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-11 04:26:11 +0000"
@@ -1526,6 +1544,12 @@
   "create:recipes/create.palettes/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-11 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
+    "criteria": {
+      "has_compass": "2024-12-13 03:29:38 +0000"
     },
     "done": true
   },
@@ -2561,6 +2585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-13 03:29:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 02:47:20 +0000"
@@ -3036,6 +3066,7 @@
       "minecraft:spider": "2024-12-11 03:00:41 +0000",
       "minecraft:creeper": "2024-12-11 04:31:13 +0000",
       "minecraft:husk": "2024-12-11 04:16:14 +0000",
+      "minecraft:stray": "2024-12-13 03:27:44 +0000",
       "minecraft:zombie": "2024-12-11 04:00:20 +0000"
     },
     "done": false
@@ -3815,6 +3846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-13 03:29:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-11 04:04:55 +0000"
@@ -4173,6 +4210,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-13 03:33:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-11 02:50:59 +0000"
@@ -4476,6 +4519,12 @@
   "cfm:recipes/cfm/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-11 04:14:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-13 03:34:02 +0000"
     },
     "done": true
   },
@@ -4890,6 +4939,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-11 03:29:22 +0000"
+    },
+    "done": true
+  },
+  "antiqueatlas:recipes/atlas": {
+    "criteria": {
+      "has_compass": "2024-12-13 03:29:38 +0000"
     },
     "done": true
   },
