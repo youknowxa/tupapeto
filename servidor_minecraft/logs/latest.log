@@ -3771,3 +3771,7 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 20:59:51.632] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 39ms increasing chunk view distance to: 20
 [13Dec2024 21:07:17.978] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity CustomItemEntity['Spider Eye'/28879, l='ServerLevel[world]', x=155.13, y=51.00, z=760.13]
 [13Dec2024 21:09:08.536] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-278, y=22, z=949}
+[13Dec2024 21:14:30.417] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/65009, l='ServerLevel[world]', x=165.86, y=14.98, z=663.77]
+[13Dec2024 21:14:30.418] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/65009, l='ServerLevel[world]', x=165.86, y=14.98, z=663.77]
+[13Dec2024 21:14:30.929] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/65057, l='ServerLevel[world]', x=166.19, y=15.61, z=664.10]
+[13Dec2024 21:14:30.930] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ThrownItemEntity['entity.brutalbosses.thrownitem'/65057, l='ServerLevel[world]', x=166.19, y=15.61, z=664.10]

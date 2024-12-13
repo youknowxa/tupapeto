@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2024-12-13 21:09:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-11 02:44:16 +0000"
@@ -827,6 +833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-13 21:11:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-11 04:22:27 +0000"
@@ -1508,6 +1520,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-11 02:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-13 21:13:58 +0000"
     },
     "done": true
   },
@@ -2273,6 +2291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-13 21:11:30 +0000"
+    },
+    "done": true
+  },
   "relics:obtain/leather_belt": {
     "criteria": {
       "obtain_relic": "2024-12-13 03:39:06 +0000"
@@ -2798,6 +2822,12 @@
   "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2024-12-11 04:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-13 21:11:30 +0000"
     },
     "done": true
   },
@@ -3521,6 +3551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-13 21:09:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-11 03:23:12 +0000"
@@ -4231,6 +4267,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-13 21:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-13 21:11:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2024-12-13 04:42:32 +0000"
@@ -4744,6 +4792,12 @@
   "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-11 03:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-13 21:13:58 +0000"
     },
     "done": true
   },
