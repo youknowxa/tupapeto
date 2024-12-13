@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-13 22:19:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2024-12-11 03:44:55 +0000"
@@ -314,6 +320,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 03:06:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-13 22:15:45 +0000"
     },
     "done": true
   },
@@ -571,9 +583,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2024-12-13 21:57:56 +0000"
+      "kill_lich": "2024-12-13 21:57:56 +0000",
+      "trophy_pedestal": "2024-12-13 22:20:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
     "criteria": {
@@ -755,6 +768,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-13 22:15:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2024-12-11 03:06:58 +0000"
@@ -770,6 +789,12 @@
   "chisel:recipes/chisel/factory/dots": {
     "criteria": {
       "has_iron": "2024-12-11 03:06:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/bighorn_sheep": {
+    "criteria": {
+      "slay": "2024-12-13 22:15:44 +0000"
     },
     "done": true
   },
@@ -1433,6 +1458,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2024-12-13 22:20:56 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/scythe_iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 03:06:29 +0000"
@@ -1601,6 +1632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-13 22:15:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_grill": {
     "criteria": {
       "has_iron": "2024-12-11 03:06:29 +0000"
@@ -1664,6 +1701,12 @@
   "relics:obtain/midnight_robe": {
     "criteria": {
       "obtain_relic": "2024-12-11 04:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-13 22:21:40 +0000"
     },
     "done": true
   },
@@ -1880,6 +1923,12 @@
   "twilightforest:alt/treasures/trophies": {
     "criteria": {
       "1": "2024-12-13 21:50:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/maze_wafer": {
+    "criteria": {
+      "food": "2024-12-13 22:22:25 +0000"
     },
     "done": true
   },
@@ -2651,6 +2700,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/blockchain_goblin": {
+    "criteria": {
+      "hurt_by_indirect": "2024-12-13 22:21:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 03:06:29 +0000"
@@ -3149,6 +3204,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/helmet_crab": {
+    "criteria": {
+      "hurt_by_indirect": "2024-12-13 22:21:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
     "criteria": {
       "has_feather": "2024-12-13 03:35:28 +0000"
@@ -3404,6 +3465,12 @@
   "cfm:recipes/cfm/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-11 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/arthopods": {
+    "criteria": {
+      "1": "2024-12-13 22:17:26 +0000"
     },
     "done": true
   },
@@ -3707,6 +3774,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/brown_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-13 22:15:45 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_purification": {
     "criteria": {
       "has_magic_scroll": "2024-12-13 21:45:25 +0000"
@@ -4002,6 +4075,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/goblins": {
+    "criteria": {
+      "3": "2024-12-13 22:21:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-11 02:52:11 +0000"
@@ -4119,6 +4198,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-11 03:01:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/lifedrain_scepter": {
+    "criteria": {
+      "scepter": "2024-12-13 22:18:12 +0000"
     },
     "done": true
   },
@@ -4573,6 +4658,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/knightmetal_armor_set": {
+    "criteria": {
+      "ingredient": "2024-12-13 22:21:46 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wirecutter": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 03:06:29 +0000"
@@ -4654,6 +4745,12 @@
   "securitycraft:recipes/securitycraft/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2024-12-11 03:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-13 22:21:40 +0000"
     },
     "done": true
   },
@@ -5534,6 +5631,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/tools": {
+    "criteria": {
+      "4": "2024-12-13 22:21:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-11 03:44:55 +0000"
@@ -5615,6 +5718,12 @@
   "cfm:recipes/cfm/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_log": "2024-12-11 03:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-13 22:21:40 +0000"
     },
     "done": true
   },
@@ -5932,6 +6041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-13 22:21:40 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/charms": {
     "criteria": {
       "1": "2024-12-13 21:41:02 +0000"
@@ -5995,6 +6110,12 @@
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2024-12-11 03:06:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/swarm_spider": {
+    "criteria": {
+      "slay": "2024-12-13 22:17:26 +0000"
     },
     "done": true
   },
@@ -6850,6 +6971,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/knightmetal_tool_set": {
+    "criteria": {
+      "ingredient": "2024-12-13 22:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-11 02:51:35 +0000"
@@ -7018,6 +7145,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/foods/any": {
+    "criteria": {
+      "1": "2024-12-13 22:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-11 03:52:54 +0000"
@@ -7027,6 +7160,12 @@
   "cfm:recipes/cfm/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-13 03:36:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "4": "2024-12-13 22:21:46 +0000"
     },
     "done": true
   },
@@ -7216,6 +7355,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/slime_beetle": {
+    "criteria": {
+      "hurt": "2024-12-13 22:21:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2024-12-11 02:52:11 +0000"
@@ -7268,6 +7413,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/heavy_crossbow_diamond": {
     "criteria": {
       "has_diamond": "2024-12-11 03:54:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2024-12-13 22:17:26 +0000"
     },
     "done": true
   },

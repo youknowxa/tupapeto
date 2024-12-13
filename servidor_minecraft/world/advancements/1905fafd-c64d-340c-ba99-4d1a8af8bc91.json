@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 22:17:51 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/copper_iron_chest": {
     "criteria": {
       "has_item": "2024-12-11 03:01:34 +0000"
@@ -686,6 +692,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quarterstaff_diamond": {
     "criteria": {
       "has_diamond": "2024-12-11 04:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 22:17:51 +0000"
     },
     "done": true
   },
@@ -875,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 22:17:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/battleaxe_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 03:32:13 +0000"
@@ -1016,6 +1034,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 22:17:51 +0000"
     },
     "done": true
   },
@@ -1331,6 +1355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 22:17:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/light_gray_cooler": {
     "criteria": {
       "has_chest": "2024-12-11 03:12:13 +0000"
@@ -1370,6 +1400,12 @@
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2024-12-13 03:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 22:17:51 +0000"
     },
     "done": true
   },
@@ -1880,6 +1916,12 @@
   "chisel:recipes/chisel/diamond_chisel": {
     "criteria": {
       "has_diamond": "2024-12-11 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 22:14:15 +0000"
     },
     "done": true
   },
@@ -3897,6 +3939,7 @@
       "minecraft:spider": "2024-12-13 20:59:04 +0000",
       "minecraft:creeper": "2024-12-13 04:06:43 +0000",
       "minecraft:wither_skeleton": "2024-12-11 03:01:27 +0000",
+      "minecraft:cave_spider": "2024-12-13 22:22:56 +0000",
       "minecraft:stray": "2024-12-11 03:01:22 +0000",
       "minecraft:silverfish": "2024-12-13 03:27:39 +0000",
       "minecraft:zombie": "2024-12-13 03:39:54 +0000",
@@ -3907,6 +3950,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-12-11 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 22:17:51 +0000"
     },
     "done": true
   },
@@ -3955,6 +4004,12 @@
   "cfm:recipes/cfm/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-11 04:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 22:17:51 +0000"
     },
     "done": true
   },
@@ -4375,6 +4430,12 @@
   "cfm:recipes/cfm/purple_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-11 03:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 22:17:51 +0000"
     },
     "done": true
   },
@@ -4918,6 +4979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 22:17:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/longsword_gold": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 03:32:13 +0000"
@@ -5134,6 +5201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-13 22:17:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2024-12-11 03:01:34 +0000"
@@ -5178,6 +5251,7 @@
       "baked_potato": "2024-12-13 21:03:54 +0000",
       "apple": "2024-12-11 02:47:02 +0000",
       "bread": "2024-12-13 03:51:35 +0000",
+      "golden_apple": "2024-12-13 22:19:02 +0000",
       "cooked_rabbit": "2024-12-13 04:12:45 +0000"
     },
     "done": false
