@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/dark_tower": {
+    "criteria": {
+      "discover": "2024-12-13 22:57:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-11 02:53:39 +0000"
@@ -2409,7 +2415,9 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "dark_log": "2024-12-13 22:55:56 +0000",
       "twilight_oak_sapling": "2024-12-13 22:05:53 +0000",
+      "dark_planks": "2024-12-13 22:56:07 +0000",
       "canopy_sapling": "2024-12-13 22:41:14 +0000"
     },
     "done": false
@@ -4954,6 +4962,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/tower_ghast": {
+    "criteria": {
+      "hurt_by_indirect": "2024-12-13 23:02:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-13 03:36:34 +0000"
@@ -6541,6 +6555,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/ghasts": {
+    "criteria": {
+      "1": "2024-12-13 23:02:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-13 03:36:34 +0000"
@@ -6781,6 +6801,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/encased_fire_jet": {
+    "criteria": {
+      "ingredient2": "2024-12-13 23:02:00 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-13 03:36:34 +0000"
@@ -6925,6 +6951,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/encased_smoker": {
+    "criteria": {
+      "ingredient2": "2024-12-13 23:02:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-11 02:52:11 +0000"
@@ -6952,6 +6984,12 @@
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-12-11 02:46:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/tower_broodling": {
+    "criteria": {
+      "slay": "2024-12-13 22:59:30 +0000"
     },
     "done": true
   },
