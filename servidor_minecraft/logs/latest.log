@@ -4068,3 +4068,66 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 04:40:56.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [Local Librarian]
 [13Dec2024 04:41:07.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> como q ya va siendo hora de apagar server
 [13Dec2024 04:41:14.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> :V
+[13Dec2024 04:41:53.263] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 51ms decreasing chunk view distance to: 14
+[13Dec2024 04:43:17.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [The Secrets of Enchanting]
+[13Dec2024 04:43:29.915] [Server thread/INFO] [Scaling Health/]: Blight Slime was killed by ElverduraZ
+[13Dec2024 04:44:52.937] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 50ms decreasing chunk view distance to: 13
+[13Dec2024 04:45:07.929] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 49ms decreasing chunk view distance to: 12
+[13Dec2024 04:45:57.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElverduraZ> :v
+[13Dec2024 04:46:22.865] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 51ms decreasing chunk view distance to: 11
+[13Dec2024 04:46:23.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElverduraZ> que pereza seguir gente apaguen server para que no me ganen :VVVVVVVV
+[13Dec2024 04:46:52.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> ya van a apagar el server?
+[13Dec2024 04:47:07.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> apago?
+[13Dec2024 04:47:23.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> piera responde
+[13Dec2024 04:47:36.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ElverduraZ> se
+[13Dec2024 04:48:00.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> ya ps
+[13Dec2024 04:48:11.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> salganse putos
+[13Dec2024 04:48:13.976] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: chorperro lost connection: Disconnected
+[13Dec2024 04:48:13.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro left the game
+[13Dec2024 04:48:15.465] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: anthonyIknow lost connection: Disconnected
+[13Dec2024 04:48:15.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow left the game
+[13Dec2024 04:48:15.902] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ElverduraZ lost connection: Disconnected
+[13Dec2024 04:48:15.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElverduraZ left the game
+[13Dec2024 04:48:24.428] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[13Dec2024 04:48:24.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Dec2024 04:48:24.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Dec2024 04:48:24.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Dec2024 04:48:24.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Dec2024 04:48:27.001] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Dec2024 04:48:27.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Dec2024 04:48:27.001] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Dec2024 04:48:27.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Dec2024 04:48:27.002] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Dec2024 04:48:27.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[13Dec2024 04:48:27.002] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[13Dec2024 04:48:27.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:dream
+[13Dec2024 04:48:27.003] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dream): All chunks are saved
+[13Dec2024 04:48:27.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[13Dec2024 04:48:27.003] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[13Dec2024 04:48:27.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:radio
+[13Dec2024 04:48:27.004] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (radio): All chunks are saved
+[13Dec2024 04:48:27.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:ground_lands
+[13Dec2024 04:48:27.005] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (ground_lands): All chunks are saved
+[13Dec2024 04:48:27.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[13Dec2024 04:48:27.005] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[13Dec2024 04:48:27.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:the_abyss
+[13Dec2024 04:48:27.006] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[13Dec2024 04:48:27.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[13Dec2024 04:48:27.007] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[13Dec2024 04:48:27.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:frost_world
+[13Dec2024 04:48:27.008] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[13Dec2024 04:48:27.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/theabyss:pocket_dimension
+[13Dec2024 04:48:27.008] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[13Dec2024 04:48:27.067] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Dec2024 04:48:27.087] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Dec2024 04:48:27.088] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Dec2024 04:48:27.088] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[13Dec2024 04:48:27.088] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dream): All chunks are saved
+[13Dec2024 04:48:27.089] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[13Dec2024 04:48:27.089] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (radio): All chunks are saved
+[13Dec2024 04:48:27.090] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (ground_lands): All chunks are saved
+[13Dec2024 04:48:27.090] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[13Dec2024 04:48:27.090] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[13Dec2024 04:48:27.091] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[13Dec2024 04:48:27.091] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (frost_world): All chunks are saved
+[13Dec2024 04:48:27.091] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
