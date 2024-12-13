@@ -1326,6 +1326,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/fiery_tool_set": {
+    "criteria": {
+      "ingredien2": "2024-12-13 23:15:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-11 03:01:57 +0000"
@@ -1594,6 +1600,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-11 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_armor_set": {
+    "criteria": {
+      "ingredien2": "2024-12-13 23:15:31 +0000"
     },
     "done": true
   },
@@ -4753,6 +4765,12 @@
     },
     "done": true
   },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2024-12-13 23:14:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 03:06:29 +0000"
@@ -5483,6 +5501,12 @@
   "create:recipes/create.palettes/weathered_limestone": {
     "criteria": {
       "has_weathered_limestone_cobblestone": "2024-12-11 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_blood_tears": {
+    "criteria": {
+      "armor": "2024-12-13 23:15:31 +0000"
     },
     "done": true
   },

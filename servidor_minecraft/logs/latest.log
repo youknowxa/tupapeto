@@ -4008,3 +4008,46 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 23:14:18.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> quiero pico nomas
 [13Dec2024 23:14:24.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> ya luego lo demas
 [13Dec2024 23:14:27.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has made the advancement [Something Strange in Towerwood]
+[13Dec2024 23:15:59.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> hermano me siento dios
+[13Dec2024 23:16:04.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> mate a un ghast gigante boss
+[13Dec2024 23:16:22.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> con las maquinitas no cuenta
+[13Dec2024 23:17:09.179] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 40ms increasing chunk view distance to: 17
+[13Dec2024 23:17:14.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> cual oe :v
+[13Dec2024 23:17:49.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> pues para matarlo hay una maquinitas que le chupan la vida
+[13Dec2024 23:17:57.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> nada
+[13Dec2024 23:18:05.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> construi para arriba y estaba full espada
+[13Dec2024 23:18:11.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> mas 1000 webadas de fuego pegandome
+[13Dec2024 23:18:12.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> :,v
+[13Dec2024 23:18:21.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> mi armadura esta casi rota como tu poto
+[13Dec2024 23:18:24.187] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 18
+[13Dec2024 23:18:36.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> eso no pasaria si tuvieras reparacion 10
+[13Dec2024 23:18:40.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> pobre de mrd
+[13Dec2024 23:18:44.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[13Dec2024 23:18:50.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> :,v
+[13Dec2024 23:18:56.885] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 55ms decreasing chunk view distance to: 17
+[13Dec2024 23:19:12.490] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 49ms decreasing chunk view distance to: 16
+[13Dec2024 23:19:43.035] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 49ms decreasing chunk view distance to: 15
+[13Dec2024 23:20:06.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[13Dec2024 23:20:29.244] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 49ms decreasing chunk view distance to: 14
+[13Dec2024 23:20:38.661] [Worker-Main-7/INFO] [twilightforest/]: tower out of range
+[13Dec2024 23:20:38.662] [Worker-Main-7/INFO] [twilightforest/]: tower blocked by twilightforest.structures.finalcastle.FinalCastleMazeTower13Component@8820a23
+[13Dec2024 23:20:38.662] [Worker-Main-7/INFO] [twilightforest/]: tower out of range
+[13Dec2024 23:20:38.663] [Worker-Main-7/WARN] [twilightforest/]: Maze of color Block{twilightforest:castle_rune_brick_pink} is getting a bit excessive.
+[13Dec2024 23:20:38.663] [Worker-Main-7/INFO] [twilightforest/]: tower out of range
+[13Dec2024 23:20:38.663] [Worker-Main-7/INFO] [twilightforest/]: tower blocked by twilightforest.structures.finalcastle.FinalCastleMazeTower13Component@235b0f1d
+[13Dec2024 23:20:38.664] [Worker-Main-7/INFO] [twilightforest/]: tower out of range
+[13Dec2024 23:20:38.665] [Worker-Main-7/WARN] [twilightforest/]: Maze of color Block{twilightforest:castle_rune_brick_blue} is getting a bit excessive.
+[13Dec2024 23:21:03.445] [Server thread/INFO] [Scaling Health/]: Blight Wolf was killed by anthonyIknow
+[13Dec2024 23:21:23.430] [Server thread/INFO] [Scaling Health/]: Blight Wild Deer was killed by anthonyIknow
+[13Dec2024 23:21:28.281] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 40ms increasing chunk view distance to: 15
+[13Dec2024 23:21:43.275] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 16
+[13Dec2024 23:21:58.278] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 17
+[13Dec2024 23:22:58.274] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 18
+[13Dec2024 23:23:01.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> q es esta mrd
+[13Dec2024 23:23:13.272] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 40ms increasing chunk view distance to: 19
+[13Dec2024 23:23:25.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> un espejo mano
+[13Dec2024 23:23:26.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> oe
+[13Dec2024 23:23:28.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> mis diaamntes
+[13Dec2024 23:23:28.276] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 40ms increasing chunk view distance to: 20
+[13Dec2024 23:23:38.989] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: anthonyIknow lost connection: Disconnected
+[13Dec2024 23:23:38.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow left the game
