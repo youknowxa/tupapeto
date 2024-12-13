@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-13 04:29:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-11 03:19:57 +0000"
@@ -746,6 +752,12 @@
   "chisel:recipes/chisel/tyrian/shining": {
     "criteria": {
       "has_iron": "2024-12-11 03:07:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_voodoo_poppets": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 04:29:54 +0000"
     },
     "done": true
   },
@@ -4446,6 +4458,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-13 04:29:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/flanged_mace_wood": {
     "criteria": {
       "has_wood": "2024-12-11 02:47:00 +0000"
@@ -5085,6 +5103,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-11 02:47:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-13 04:29:54 +0000"
     },
     "done": true
   },

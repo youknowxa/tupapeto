@@ -3986,3 +3986,70 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 04:17:04.968] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 13
 [13Dec2024 04:18:49.970] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 14
 [13Dec2024 04:20:49.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> :,v
+[13Dec2024 04:21:13.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[13Dec2024 04:21:21.980] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 54ms decreasing chunk view distance to: 13
+[13Dec2024 04:22:51.966] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 14
+[13Dec2024 04:22:56.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has made the advancement [Take Aim]
+[13Dec2024 04:23:12.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro was shot by anthonyIknow
+[13Dec2024 04:23:12.184] [Server thread/INFO] [tombstone/]: The player chorperro has successfully been saved
+[13Dec2024 04:23:13.316] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Dec2024 04:23:13.317] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Dec2024 04:23:13.564] [Thread-94/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 1905fafd-c64d-340c-ba99-4d1a8af8bc91.
+[13Dec2024 04:23:15.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> XDDDDDDD
+[13Dec2024 04:23:38.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has reached the goal [Here They Come]
+[13Dec2024 04:23:48.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has reached the goal [Chain Death]
+[13Dec2024 04:23:48.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro was slain by anthonyIknow
+[13Dec2024 04:23:48.349] [Server thread/INFO] [tombstone/]: The player chorperro has successfully been saved
+[13Dec2024 04:23:49.532] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Dec2024 04:23:49.533] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Dec2024 04:23:51.970] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 15
+[13Dec2024 04:23:52.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has made the advancement [Funeral Theft]
+[13Dec2024 04:23:52.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: anthonyIknow has reached the goal [Discreet Search]
+[13Dec2024 04:23:56.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> oe
+[13Dec2024 04:23:59.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> se agarro tus cosas
+[13Dec2024 04:24:02.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [Ol' Betsy]
+[13Dec2024 04:24:40.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [Take Aim]
+[13Dec2024 04:25:14.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro was shot by anthonyIknow
+[13Dec2024 04:25:14.081] [Server thread/INFO] [tombstone/]: The player chorperro has successfully been saved
+[13Dec2024 04:25:15.321] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Dec2024 04:25:15.321] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Dec2024 04:25:39.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> toma
+[13Dec2024 04:25:46.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [It Certainly Seems Rare...]
+[13Dec2024 04:25:56.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> esa mrd de proteccion 2 que
+[13Dec2024 04:26:01.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> ptmr
+[13Dec2024 04:26:04.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> exigente la mrd
+[13Dec2024 04:26:23.071] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 51ms decreasing chunk view distance to: 14
+[13Dec2024 04:27:00.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> mano por si no sabias
+[13Dec2024 04:27:06.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> tu internet depende de mi
+[13Dec2024 04:27:12.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> XDDDDDDDDD
+[13Dec2024 04:27:17.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> deja chambear o dile adios
+[13Dec2024 04:27:34.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> toma te regalo estos :v
+[13Dec2024 04:27:59.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has made the advancement [Cover Me With Diamonds]
+[13Dec2024 04:27:59.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has reached the goal [Titan-Forged]
+[13Dec2024 04:28:21.990] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 41ms increasing chunk view distance to: 15
+[13Dec2024 04:28:25.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> XDDD
+[13Dec2024 04:28:39.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> oe si mato a esa webada?
+[13Dec2024 04:28:49.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> deja mrd ponte a hacer otra osa
+[13Dec2024 04:28:54.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElverduraZ was shot by Stray
+[13Dec2024 04:28:54.494] [Server thread/INFO] [tombstone/]: The player ElverduraZ has successfully been saved
+[13Dec2024 04:28:55.810] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Dec2024 04:28:55.811] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Dec2024 04:28:55.963] [Thread-105/INFO] [com.lycanitesmobs.LycanitesMobs/]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 4f110334-0b07-3a24-a726-f33e307182a0.
+[13Dec2024 04:29:10.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> oe piero a q hora llegas
+[13Dec2024 04:29:11.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> oe pasa mochila no?
+[13Dec2024 04:29:11.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElverduraZ has made the advancement [Hot Stuff]
+[13Dec2024 04:29:26.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> donde chu esta mi mochila
+[13Dec2024 04:29:38.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> no se mano
+[13Dec2024 04:29:43.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> no la tnego
+[13Dec2024 04:29:45.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> este webon
+[13Dec2024 04:29:50.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> esta en tu espalda :v
+[13Dec2024 04:29:51.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <chorperro> para eso vienes a joder
+[13Dec2024 04:29:54.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElverduraZ has made the advancement [Not even afraid of death]
+[13Dec2024 04:29:54.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ElverduraZ has made the advancement [Back to childhood]
+[13Dec2024 04:30:00.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> apreta E
+[13Dec2024 04:30:05.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> y al lado de tu casco
+[13Dec2024 04:30:07.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> sale una webada
+[13Dec2024 04:30:11.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> hay esta la mochila
+[13Dec2024 04:30:25.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> sano
+[13Dec2024 04:30:26.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <anthonyIknow> :v
+[13Dec2024 04:31:00.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: chorperro has completed the challenge [Cannibal]

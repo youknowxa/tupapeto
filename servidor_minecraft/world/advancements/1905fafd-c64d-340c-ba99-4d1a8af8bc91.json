@@ -1091,6 +1091,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2024-12-13 04:27:59 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/scalinghealth/heart_dust": {
     "criteria": {
       "cobblestone": "2024-12-11 02:44:16 +0000"
@@ -1256,6 +1262,12 @@
   "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2024-12-11 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-13 04:24:23 +0000"
     },
     "done": true
   },
@@ -1514,6 +1526,12 @@
   "cfm:recipes/cfm/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2024-12-11 04:22:27 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-13 04:25:46 +0000"
     },
     "done": true
   },
@@ -2207,6 +2225,12 @@
     },
     "done": true
   },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2024-12-13 04:31:00 +0000"
+    },
+    "done": true
+  },
   "relics:obtain/leather_belt": {
     "criteria": {
       "obtain_relic": "2024-12-13 03:39:06 +0000"
@@ -2891,6 +2915,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-13 04:24:40 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
     "criteria": {
       "has_leather": "2024-12-11 02:47:06 +0000"
@@ -3170,6 +3200,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-11 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-13 04:27:59 +0000"
     },
     "done": true
   },
@@ -4332,6 +4368,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 04:24:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-11 02:44:16 +0000"
@@ -4812,6 +4854,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 04:23:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-11 02:44:28 +0000"
@@ -4875,6 +4923,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-11 02:51:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 04:23:48 +0000"
     },
     "done": true
   },
@@ -5816,6 +5870,12 @@
   "apotheosis:affix/common": {
     "criteria": {
       "sword": "2024-12-13 03:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-13 04:24:02 +0000"
     },
     "done": true
   },
