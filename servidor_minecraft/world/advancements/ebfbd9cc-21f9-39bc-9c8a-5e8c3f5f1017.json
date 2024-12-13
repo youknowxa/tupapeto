@@ -29,15 +29,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2024-12-13 03:44:30 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/yellow_cooler": {
     "criteria": {
       "has_chest": "2024-12-13 03:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-12-13 03:44:30 +0000"
     },
     "done": true
   },
@@ -3467,15 +3467,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-13 04:47:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-13 03:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-13 04:47:52 +0000"
     },
     "done": true
   },
@@ -4700,15 +4700,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-13 04:23:52 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/orange_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-13 03:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 04:23:52 +0000"
     },
     "done": true
   },
@@ -5121,15 +5121,15 @@
     },
     "done": true
   },
-  "cfm:recipes/cfm/black_cooler": {
-    "criteria": {
-      "has_chest": "2024-12-13 03:36:34 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/gabbro_cobblestone_stairs_from_gabbro_cobblestone_stonecutting": {
     "criteria": {
       "has_gabbro_cobblestone": "2024-12-13 03:24:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/black_cooler": {
+    "criteria": {
+      "has_chest": "2024-12-13 03:36:34 +0000"
     },
     "done": true
   },
@@ -5723,15 +5723,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/discreet_search": {
-    "criteria": {
-      "coded_trigger": "2024-12-13 04:23:52 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-13 03:36:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 04:23:52 +0000"
     },
     "done": true
   },
@@ -5891,15 +5891,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2024-12-13 04:47:52 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-13 03:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-13 04:47:52 +0000"
     },
     "done": true
   },
