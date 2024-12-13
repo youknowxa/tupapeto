@@ -3035,6 +3035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-13 21:24:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
     "criteria": {
       "has_feather": "2024-12-11 03:00:00 +0000"
@@ -5620,6 +5626,12 @@
   "advancednetherite:recipes/advancednetherite.tab/netherite_gold_ingot": {
     "criteria": {
       "has_OptionalNamedTag[forge:ingots/gold]": "2024-12-13 03:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-13 21:24:50 +0000"
     },
     "done": true
   },

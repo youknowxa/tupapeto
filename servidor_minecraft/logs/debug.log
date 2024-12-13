@@ -21534,3 +21534,383 @@ Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalboss
 [13Dec2024 21:22:17.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [13Dec2024 21:22:18.969] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [13Dec2024 21:22:19.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:22:43.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:22:43.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:22:43.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:22:43.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:22:44.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:22:44.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:22:44.478] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:22:44.478] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:22:46.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:22:46.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:22:46.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:22:46.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:22:49.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:22:49.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:22:49.283] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:22:49.283] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:23:07.207] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[13Dec2024 21:23:07.229] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[13Dec2024 21:23:09.327] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [8,70]
+[13Dec2024 21:23:09.327] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [8,70]
+[13Dec2024 21:23:09.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [9,70]
+[13Dec2024 21:23:09.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [9,70]
+[13Dec2024 21:23:09.368] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [10,70]
+[13Dec2024 21:23:09.368] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (169 | 40 | 1122)
+[13Dec2024 21:23:09.369] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation COUNTERCLOCKWISE_90 at (169 | 40 | 1122)
+[13Dec2024 21:23:09.369] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (174 | 40 | 1122)
+[13Dec2024 21:23:09.369] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (174 | 40 | 1122)
+[13Dec2024 21:23:09.369] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (169 | 40 | 1119)
+[13Dec2024 21:23:09.369] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (169 | 40 | 1119)
+[13Dec2024 21:23:09.369] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (170 | 40 | 1128)
+[13Dec2024 21:23:09.370] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation CLOCKWISE_90 at (170 | 40 | 1128)
+[13Dec2024 21:23:09.370] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (164 | 40 | 1133)
+[13Dec2024 21:23:09.371] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (164 | 40 | 1133)
+[13Dec2024 21:23:09.371] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [10,70]
+[13Dec2024 21:23:10.455] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [11,70]
+[13Dec2024 21:23:10.455] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (164 | 40 | 1133)
+[13Dec2024 21:23:10.455] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (164 | 40 | 1133)
+[13Dec2024 21:23:10.455] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [11,70]
+[13Dec2024 21:23:10.502] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [16,70]
+[13Dec2024 21:23:10.502] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [16,70]
+[13Dec2024 21:23:10.509] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [17,70]
+[13Dec2024 21:23:10.509] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [17,70]
+[13Dec2024 21:23:10.514] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [18,70]
+[13Dec2024 21:23:10.514] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [18,70]
+[13Dec2024 21:23:10.518] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [12,70]
+[13Dec2024 21:23:10.518] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (205 | 49 | 1122)
+[13Dec2024 21:23:10.519] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/spawner with rotation COUNTERCLOCKWISE_90 at (205 | 49 | 1122)
+[13Dec2024 21:23:10.520] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (205 | 49 | 1119)
+[13Dec2024 21:23:10.520] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (205 | 49 | 1119)
+[13Dec2024 21:23:10.520] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (204 | 49 | 1128)
+[13Dec2024 21:23:10.521] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (204 | 49 | 1128)
+[13Dec2024 21:23:10.521] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [12,70]
+[13Dec2024 21:23:10.532] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [13,70]
+[13Dec2024 21:23:10.532] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (210 | 49 | 1122)
+[13Dec2024 21:23:10.532] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/bookshelf with rotation CLOCKWISE_90 at (210 | 49 | 1122)
+[13Dec2024 21:23:10.532] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (205 | 49 | 1119)
+[13Dec2024 21:23:10.533] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation COUNTERCLOCKWISE_90 at (205 | 49 | 1119)
+[13Dec2024 21:23:10.533] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (204 | 49 | 1128)
+[13Dec2024 21:23:10.534] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (204 | 49 | 1128)
+[13Dec2024 21:23:10.534] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [13,70]
+[13Dec2024 21:23:10.541] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [14,70]
+[13Dec2024 21:23:10.541] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [14,70]
+[13Dec2024 21:23:10.547] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [15,70]
+[13Dec2024 21:23:10.547] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [15,70]
+[13Dec2024 21:23:28.304] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [8,71]
+[13Dec2024 21:23:28.304] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation COUNTERCLOCKWISE_90 at (141 | 40 | 1146)
+[13Dec2024 21:23:28.304] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation COUNTERCLOCKWISE_90 at (141 | 40 | 1146)
+[13Dec2024 21:23:28.304] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (143 | 20 | 1148)
+[13Dec2024 21:23:28.305] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (143 | 20 | 1148)
+[13Dec2024 21:23:28.305] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (137 | 13 | 1142)
+[13Dec2024 21:23:28.306] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (137 | 13 | 1142)
+[13Dec2024 21:23:28.308] [Worker-Main-8/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [8,71]
+[13Dec2024 21:23:28.314] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [9,71]
+[13Dec2024 21:23:28.314] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/secret_room with rotation COUNTERCLOCKWISE_90 at (141 | 40 | 1146)
+[13Dec2024 21:23:28.314] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/secret_room with rotation COUNTERCLOCKWISE_90 at (141 | 40 | 1146)
+[13Dec2024 21:23:28.314] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (155 | 21 | 1151)
+[13Dec2024 21:23:28.315] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (155 | 21 | 1151)
+[13Dec2024 21:23:28.315] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@48fe3bd8 for dungeoncrawl:catacombs/node/sewers_fork at (155 | 21 | 1151)
+[13Dec2024 21:23:28.315] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@48fe3bd8 for dungeoncrawl:catacombs/node/sewers_fork at (155 | 21 | 1151)
+[13Dec2024 21:23:28.315] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (143 | 20 | 1148)
+[13Dec2024 21:23:28.316] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/light with rotation COUNTERCLOCKWISE_90 at (143 | 20 | 1148)
+[13Dec2024 21:23:28.316] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (137 | 13 | 1142)
+[13Dec2024 21:23:28.316] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (137 | 13 | 1142)
+[13Dec2024 21:23:28.317] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [9,71]
+[13Dec2024 21:23:28.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [10,71]
+[13Dec2024 21:23:28.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (170 | 40 | 1150)
+[13Dec2024 21:23:28.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation COUNTERCLOCKWISE_90 at (170 | 40 | 1150)
+[13Dec2024 21:23:28.335] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (164 | 40 | 1133)
+[13Dec2024 21:23:28.337] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (164 | 40 | 1133)
+[13Dec2024 21:23:28.337] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (155 | 21 | 1151)
+[13Dec2024 21:23:28.338] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation COUNTERCLOCKWISE_90 at (155 | 21 | 1151)
+[13Dec2024 21:23:28.338] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@48fe3bd8 for dungeoncrawl:catacombs/node/sewers_fork at (155 | 21 | 1151)
+[13Dec2024 21:23:28.338] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@48fe3bd8 for dungeoncrawl:catacombs/node/sewers_fork at (155 | 21 | 1151)
+[13Dec2024 21:23:28.338] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [10,71]
+[13Dec2024 21:23:28.362] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [11,71]
+[13Dec2024 21:23:28.362] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (164 | 40 | 1133)
+[13Dec2024 21:23:28.363] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation COUNTERCLOCKWISE_90 at (164 | 40 | 1133)
+[13Dec2024 21:23:28.363] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (182 | 22 | 1151)
+[13Dec2024 21:23:28.364] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (182 | 22 | 1151)
+[13Dec2024 21:23:28.364] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@48fe3bd8 for dungeoncrawl:catacombs/node/crypt_dead_end at (182 | 22 | 1151)
+[13Dec2024 21:23:28.364] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@48fe3bd8 for dungeoncrawl:catacombs/node/crypt_dead_end at (182 | 22 | 1151)
+[13Dec2024 21:23:28.364] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [11,71]
+[13Dec2024 21:23:28.380] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Starting dungeon generation in chunk [12,71]
+[13Dec2024 21:23:28.380] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (204 | 49 | 1128)
+[13Dec2024 21:23:28.380] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (204 | 49 | 1128)
+[13Dec2024 21:23:28.380] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (205 | 49 | 1137)
+[13Dec2024 21:23:28.380] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation COUNTERCLOCKWISE_90 at (205 | 49 | 1137)
+[13Dec2024 21:23:28.380] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (207 | 54 | 1149)
+[13Dec2024 21:23:28.381] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/corridor/ceiling with rotation COUNTERCLOCKWISE_90 at (207 | 54 | 1149)
+[13Dec2024 21:23:28.381] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (205 | 49 | 1149)
+[13Dec2024 21:23:28.381] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation CLOCKWISE_180 at (205 | 49 | 1149)
+[13Dec2024 21:23:28.381] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (206 | 49 | 1146)
+[13Dec2024 21:23:28.381] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/connector with rotation COUNTERCLOCKWISE_90 at (206 | 49 | 1146)
+[13Dec2024 21:23:28.381] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (206 | 49 | 1148)
+[13Dec2024 21:23:28.381] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (206 | 49 | 1148)
+[13Dec2024 21:23:28.381] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (182 | 22 | 1151)
+[13Dec2024 21:23:28.382] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (182 | 22 | 1151)
+[13Dec2024 21:23:28.382] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Running decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@48fe3bd8 for dungeoncrawl:catacombs/node/crypt_dead_end at (182 | 22 | 1151)
+[13Dec2024 21:23:28.382] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished decoration xiroc.dungeoncrawl.dungeon.decoration.VineDecoration@48fe3bd8 for dungeoncrawl:catacombs/node/crypt_dead_end at (182 | 22 | 1151)
+[13Dec2024 21:23:28.382] [Worker-Main-7/DEBUG] [Dungeon Crawl/]: Finished dungeon generation in chunk [12,71]
+[13Dec2024 21:24:10.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:24:10.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:24:10.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:24:12.188] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:24:12.188] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:24:12.196] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:24:12.197] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:25:52.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:25:52.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:25:52.323] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:25:52.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:25:52.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:25:52.970] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:25:53.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:25:53.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:25:53.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:25:53.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:26:15.482] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:26:17.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:26:17.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:26:17.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:26:18.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:26:18.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:26:18.631] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:27:29.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:27:29.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:29.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:27:31.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:27:31.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:31.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:27:33.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:27:33.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:33.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:27:33.679] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:42.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:43.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:27:43.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:43.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:27:44.286] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:27:44.286] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:44.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:27:44.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:49.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:27:49.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:49.378] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:27:50.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:50.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:27:50.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:50.669] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:27:51.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:27:51.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:27:51.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:27:51.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:00.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:28:00.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:00.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:28:01.681] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:28:01.681] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:01.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:28:02.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:28:02.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:02.278] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:28:02.278] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:07.202] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[13Dec2024 21:28:07.218] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[13Dec2024 21:28:33.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:28:33.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:33.932] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:28:36.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:37.528] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:28:37.528] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:37.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:28:37.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:38.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:28:38.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:38.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:28:41.635] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:28:41.694] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:28:41.750] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:28:47.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:47.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:28:47.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:47.697] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:28:48.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:28:48.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:48.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:28:48.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:28:57.639] [Worker-Main-7/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=557, y=53, z=357} at Chest with:minecraft:chests/simple_dungeon in Better Mineshaft
+[13Dec2024 21:28:57.639] [Worker-Main-7/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=559, y=53, z=357} at Chest with:minecraft:chests/simple_dungeon in Better Mineshaft
+[13Dec2024 21:29:25.273] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:29:25.327] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:29:25.369] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:17.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:17.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:17.682] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:17.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:19.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:19.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:19.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:19.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:22.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:22.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:22.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:22.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:22.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:24.726] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:24.726] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:24.732] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:24.732] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:27.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:27.173] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:27.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:27.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:27.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:30.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:30.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:30.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:30.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:30.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:30.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:31.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:31.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:31.477] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:31.477] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:36.726] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:36.727] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:36.727] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:37.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:37.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:37.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:38.027] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:38.027] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:38.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:44.220] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.272] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:44.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:44.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:44.327] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.374] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.425] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.475] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.526] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.575] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.629] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.676] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.721] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.772] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.835] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.880] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.929] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:44.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.023] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.075] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.121] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.181] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.234] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.271] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.333] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.378] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.433] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.479] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.525] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.580] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.624] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.680] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.730] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.777] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.822] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:30:45.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:45.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:30:45.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:30:45.872] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.922] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:45.974] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.032] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.074] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.123] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.172] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.221] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.275] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.323] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.380] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.475] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.523] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.570] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.623] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.689] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.726] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.772] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.828] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.874] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.930] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:46.973] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:51.469] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:51.522] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:51.576] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:51.629] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:51.688] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:51.734] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:51.779] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:51.833] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:30:51.878] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:02.824] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:02.871] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:02.933] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.175] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.235] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.281] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.327] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.390] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.438] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.478] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.529] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.602] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.671] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.743] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.819] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.864] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.905] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.955] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:03.989] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:04.023] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:04.059] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:04.105] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:04.142] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:04.186] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:04.222] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:04.277] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:04.328] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:06.623] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:06.675] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:06.722] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:06.774] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:06.822] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:06.877] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:06.925] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:06.977] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:07.032] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:07.072] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:07.126] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[13Dec2024 21:31:47.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:31:49.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:31:49.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:31:49.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:31:49.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:31:49.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:31:49.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:32:02.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:32:02.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:32:02.374] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:32:03.577] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[13Dec2024 21:32:03.577] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:32:03.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[13Dec2024 21:32:03.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[13Dec2024 21:32:19.568] [Server thread/DEBUG] [twilightforest/]: Portal destination looks safe!
+[13Dec2024 21:32:20.624] [Server thread/DEBUG] [twilightforest/]: Found ideal portal spot for anthonyIknow at BlockPos{x=115, y=37, z=734}
+[13Dec2024 21:32:23.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3685ms or 73 ticks behind
